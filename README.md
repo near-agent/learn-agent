@@ -3,7 +3,7 @@ Let's learn building agents on NEAR
 
 ## NEAR AI Agent
 
-### Build Agents on NEAR
+### Build Agents on NEAR (NEAR x OpenBuild)
 
 - Stater: https://github.com/near-agent/nearai-starter
 - Video (Chinese): https://openbuild.xyz/learn/challenges/2054935307/1735116473
